@@ -29,8 +29,8 @@ $query.Refresh()
 $query.Delete()
 
 #Save and Close the Workbook as XLSX
-$excel.DisplayAlerts = $False
-$Workbook.SaveAs($xlsx,51)
-$excel.Quit()
+$excel.DisplayAlerts = $False  #No alerts! Look, with this script do you rewrite all your files. Take care!
+$Workbook.SaveAs($xlsx,51) #Saveing
+$excel.Quit() #exit
 
 }
