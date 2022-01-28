@@ -1,4 +1,4 @@
-# csvtoxlsx
+# CSV TO XLSX
 Convert .csv files to .xlsx
 _______________________________________________________ 
                   CSV TO XLSX CONVERTER
