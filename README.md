@@ -4,4 +4,4 @@ _______________________________________________________
                   CSV TO XLSX CONVERTER
 -------------------------------------------------------
 -> Convert all files in your folder
--> Convert .csv to .xlsx without lose any column.
+Convert .csv to .xlsx without lose any column.
